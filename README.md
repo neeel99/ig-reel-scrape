@@ -62,3 +62,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries or support requests, feel free to reach out to us at:
 - Email: neelgreev99@gmail.com
 ---
+
+### Disclaimer
+
+**Note:** This project is intended for educational and informational purposes only. Any actions and activities performed using this project are the sole responsibility of the user. I am not liable for any illegal or unauthorized use of the information provided in this project. Use it at your own risk and discretion.
