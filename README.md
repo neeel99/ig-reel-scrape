@@ -7,7 +7,7 @@ A Python script to scrape Instagram Reels URLs and download them.
 
 ## Description
 
-The Instagram Reel Scraper is a Python script that allows you to scrape Instagram Reels URLs from specified accounts and download them locally, this tool makes it easy to gather and save Instagram Reels for offline viewing or archival purposes.
+The Instagram Reel Scraper is a Python script that utilizes Selenium and allows you to scrape Instagram Reels URLs from specified accounts and download them locally, this tool makes it easy to gather and save Instagram Reels for offline viewing or archival purposes.
 
 ## Installation
 
