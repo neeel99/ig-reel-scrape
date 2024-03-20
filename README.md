@@ -16,19 +16,19 @@ To install and use the Instagram Reel Scraper, follow these steps:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/neeel99/ig-reel-scrape.git
+git clone https://github.com/neeel99/igreelscrape.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd ig-reel-scrape 
+cd igreelscrape 
 ```
 
 3. Run the script:
 
 ```bash
-python main.py
+python script.py
 ```
 
 ## Usage
